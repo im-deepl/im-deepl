@@ -14,7 +14,3 @@
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepl3dot14@gmail.com)](deepl3dot14@gmail.com)
-
-🏅 Level
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deliciouswaffle)](https://solved.ac/deliciouswaffle/)  
