@@ -1,5 +1,4 @@
-### Hi Welcome, i'm deliciouswaffle(deepl) 👋
-
+### Hi Welcome, I'm deliciouswaffle(deepl) 👋
 #### South Korea Elementary School Programmer
 
 
