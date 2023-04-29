@@ -1,6 +1,6 @@
 ### Hi Welcome, i'm deliciouswaffle(deepl) 👋
 
-#### I live in South Korea Elementary School Programmer
+#### South Korea Elementary School Programmer
 
 
 🛠️ Stacks
