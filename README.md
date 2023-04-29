@@ -17,9 +17,8 @@
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deliciouswaffle)](https://solved.ac/deliciouswaffle/)  
 Programmers - Lv3  
-Samsung SW *Pro Level*
 
 
 🏆 Awards
