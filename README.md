@@ -18,11 +18,3 @@
 🏅 Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deliciouswaffle)](https://solved.ac/deliciouswaffle/)  
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
-
