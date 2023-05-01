@@ -16,3 +16,5 @@ South Korea Elementary School Programmer
 -
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliciouswaffle&layout=compact)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliciouswaffle&show_icons=true&theme=default)
