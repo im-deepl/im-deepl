@@ -13,3 +13,5 @@
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepl3dot14@gmail.com)](deepl3dot14@gmail.com)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedeop&layout=compact)
