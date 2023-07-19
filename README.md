@@ -15,6 +15,6 @@ South Korea Elementary School Programmer
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepl3dot14@gmail.com)](deepl3dot14@gmail.com)
 -
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliciouswaffle&layout=compact)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-deepl&layout=compact)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliciouswaffle&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-deepl&show_icons=true&theme=default)
