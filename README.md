@@ -1,4 +1,4 @@
-## Hi, My name is deepl 👋
+## Hi, My name is taeseong 👋
 
 South Korea Elementary School Programmer
 <br>~~I love waffle~~
@@ -12,9 +12,9 @@ South Korea Elementary School Programmer
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 -
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepl3dot14@gmail.com)](deepl3dot14@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idhts2081@gmail.com)](idhts2081@gmail.com)
 -
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-deepl&layout=compact)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tae2081&layout=compact)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-deepl&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tae2081&show_icons=true&theme=default)
